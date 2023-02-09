@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Digital Garden</title>
+    <link>http://divjotbedi.me/posts/</link>
+    <description>Recent content in Posts on Digital Garden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Feb 2023 15:43:33 -0500</lastBuildDate><atom:link href="http://divjotbedi.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://divjotbedi.me/posts/my-first-post/</link>
+      <pubDate>Thu, 09 Feb 2023 15:43:33 -0500</pubDate>
+      
+      <guid>http://divjotbedi.me/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
