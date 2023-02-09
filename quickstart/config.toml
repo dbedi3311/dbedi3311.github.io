@@ -1,0 +1,35 @@
+baseURL = 'http://divjotbedi.me/'
+languageCode = 'en-us'
+title = "Digital Garden"
+theme = "paper"
+
+#disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  #twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+  github = 'dbedi3311'                 # github.com/YOUR_GITHUB_ID
+  instagram = 'divjotbedi'           # instagram.com/YOUR_INSTAGRAM_ID
+  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  rss = true                                # show rss icon
+
+  # home page profile
+  avatar = 'dbedi3311@gmail.com'                 # gravatar email or image url
+  name = 'Divjot Bedi'
+  bio = 'This is my digital garden'
+
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  gravatarCdn = 'https://s.gravatar.com/avatar/4be354fa1860e95db497d17d22fa312f?s=80'         # e.g. 'https://cdn.v2ex.com/gravatar/'
+  graphCommentId = "YOUR_GRAPH_COMMENT_ID"  # use graph comment (disqus alternative)
+
+[author]
+  name = "divjotbedi"
+  homepage = ""
+
+  
