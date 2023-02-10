@@ -1,8 +1,10 @@
-baseURL = '/'
+baseURL = 'https://divjotbedi.me/'
 languageCode = 'en-us'
 title = "Digital Garden"
 theme = "paper"
 publishDir = "docs"
+
+enableEmoji = true
 
 #disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
@@ -20,7 +22,7 @@ publishDir = "docs"
   # home page profile
   avatar = 'dbedi3311@gmail.com'                 # gravatar email or image url
   name = 'Divjot Bedi'
-  bio = 'This is my digital garden'
+  bio = "This is my virtual scratchpad: a mishmash of my ideas, thoughts, and musings with a technical focus."
 
 
   # misc
