@@ -2,6 +2,7 @@ baseURL = 'http://divjotbedi.me/'
 languageCode = 'en-us'
 title = "Digital Garden"
 theme = "paper"
+publishDir = "../docs"
 
 #disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
@@ -31,5 +32,3 @@ theme = "paper"
 [author]
   name = "divjotbedi"
   homepage = ""
-
-  
