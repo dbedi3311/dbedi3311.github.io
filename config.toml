@@ -2,7 +2,7 @@ baseURL = 'http://divjotbedi.me/'
 languageCode = 'en-us'
 title = "Digital Garden"
 theme = "paper"
-publishDir = "../docs"
+publishDir = "docs"
 
 #disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
 
